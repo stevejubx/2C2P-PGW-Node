@@ -1,0 +1,13 @@
+{
+  "name": "pgw-2c2p",
+  "version": "1.0.0",
+  "main": "example.js",
+  "repository": "https://github.com/jsirichai/2C2P-PGW-Node.git",
+  "author": "jsirichai <jamesirichai.chulee@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "jsonwebtoken": "^9.0.2",
+    "winston": "^3.13.0"
+  }
+}
