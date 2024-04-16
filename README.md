@@ -18,7 +18,7 @@ const PGW2C2P = require("./src/lib/PGW2C2P");
 const pgw = new PGW2C2P({
   secretKey: "DEOVNSPS1KYLIX2J1BC173DRLUIL9O0R",
   merchantID: "764000167",
-  environment: "sandbox", // Environment (sandbox/live) defaults to sandbox.
+  environment: "sandbox", // Environment (sandbox/live) default to sandbox.
   apiVersion: "4.3", // default to 4.3.
   debug: false, // default to true.
 });
